@@ -323,7 +323,7 @@ Done by Gil Vilares
 
 > Conection center
 
-<a href="https://soundcloud.com/vilarezz" style="display: flex; justify-content: center;align-items: center; text-decoration: none; color: #e69d58;">
+<a href="https://instagram.com/vilarezz" style="display: flex; justify-content: center;align-items: center; text-decoration: none; color: #e69d58;">
  <img src="./.github/ig.png" width="20px" /> 
  <p>Instagram</p>
 </a>
@@ -333,17 +333,17 @@ Done by Gil Vilares
  <p>Twitter</p>
 </a>
 
-<a href="https://youtube.com/vilarezz0" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
+<a href="https://www.youtube.com/channel/UC-8MQslkT5DWN1JJOZEKdgg" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
  <img src="./.github/yt.png" width="25px" /> 
  <p>Youtube</p>
 </a>
 
-<a href="https://spotify.com/vilarezz" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
+<a href="https://open.spotify.com/artist/15j2RkrJzpX2C3dKPogqbe" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
  <img src="./.github/spotify.png" width="25px" /> 
  <p>Spotify</p>
 </a>
 
-<a href="https://music.apple.com/vilarezz" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
+<a href="https://music.apple.com/us/artist/vilarezz/1552772851" style="display: flex;  justify-content: center; align-items: center; text-decoration: none; color: #e69d58;">
  <img src="./.github/apple-music.png" width="25px" /> 
  <p>Apple Music</p>
 </a>
