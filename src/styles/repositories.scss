@@ -1,0 +1,45 @@
+section.repository-list {
+  margin: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+  h1 {
+    margin-bottom: 45px;
+  }
+
+  ul {
+    list-style: none;
+
+    li {
+      margin-bottom: 28px;
+      border-radius: 10px;
+      box-shadow: inset 0 0 2000px rgba(255, 255, 255, 0.719);
+
+      padding: 100px 100px;
+      position: relative;
+      background: inherit;
+      overflow: hidden;
+    }
+
+    li:last-child {
+      margin: 0;
+    }
+
+    p {
+      font-size: 14px;
+      color: #221203;
+      margin-top: 8px;
+      z-index: 20000;
+    }
+
+    a {
+      display: inline-block;
+      margin-top: 6px;
+      text-decoration: none;
+      color: #e69d58;
+      z-index: 20000;
+    }
+  }
+}
